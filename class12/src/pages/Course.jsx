@@ -14,6 +14,10 @@ const Course = () => {
             <p>Sale is live</p>
             <p>Sale is live</p>
             <p>Sale is live</p>
+            <p>Sale is live</p>
+            <p>Sale is live</p>
+            <p>Sale is live</p>
+            <p>Sale is live</p>
         </div>
         <Outlet />
     </div>
